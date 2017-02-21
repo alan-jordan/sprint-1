@@ -1,6 +1,6 @@
 I would describe the command line as a way of telling a computer to do things using text.
 
-''10 Terminal commands
+#10 Terminal commands
 1. rm - Stands for remove. This allows you to remove a file.
 2. cp - Stands for copy. Allows you to copy a file from one location to another. Once you have copied the file, the original will still be in place.
 3. cat - Stands for concatenate. Allows you to display the contents of a file on the command line.
